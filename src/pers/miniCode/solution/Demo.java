@@ -1,4 +1,4 @@
-package pers.miniCode.hsbc;
+package pers.miniCode.solution;
 
 public class Demo {
 	public static void main(String[]args){
